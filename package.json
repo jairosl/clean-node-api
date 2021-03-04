@@ -5,6 +5,7 @@
   "author": "Jairosl <jairo.lima@aluno.uepb.edu.br>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.21.0"
+    "eslint": "^7.21.0",
+    "typescript": "^4.2.2"
   }
 }
