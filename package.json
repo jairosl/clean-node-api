@@ -1,0 +1,7 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jairosl <jairo.lima@aluno.uepb.edu.br>",
+  "license": "MIT"
+}
