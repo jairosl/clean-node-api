@@ -5,13 +5,14 @@
   "author": "Jairosl <jairo.lima@aluno.uepb.edu.br>",
   "license": "MIT",
   "scripts": {
-    "lint:fix": "eslint . --fix",
+    "lint:fix": "eslint --fix",
     "prepare": "husky install",
     "test": "jest"
   },
   "lint-staged": {
     "src/**/*.ts": [
-      "eslint . --fix"
+      "eslint --fix",
+      "jest"
     ]
   },
   "devDependencies": {
